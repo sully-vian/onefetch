@@ -168,10 +168,6 @@ Ats:
       - yellow
       - red
       - blue
-    hex:
-      - "#FFFF00"
-      - "#FF0000"
-      - "#0000FF"
     chip: "#1AC620"
 AutoHotKey:
   type: programming
@@ -191,9 +187,6 @@ AutoHotKey:
     ansi:
       - white
       - green
-    hex:
-      - "#FFFFFF"
-      - "#119810"
     chip: "#6594B9"
 Bash:
   type: programming
